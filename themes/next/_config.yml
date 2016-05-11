@@ -216,6 +216,7 @@ auto_excerpt:
 wechat_subscriber:
   enabled: true
   qcode: /img/qrcode.png
+  imglink: http://qm.qq.com/cgi-bin/qm/qr?k=84CvUAG2DCEjWF4m7Ys0Gym-NCjbl2wb
   description: 扫描二维码或<a href="http://qm.qq.com/cgi-bin/qm/qr?k=84CvUAG2DCEjWF4m7Ys0Gym-NCjbl2wb">点击此处添加QQ</a>
 
 
