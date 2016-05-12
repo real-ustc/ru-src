@@ -70,5 +70,5 @@ duoshuo_shortname: tiffora
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git:git@github.com:real-ustc/real-ustc.github.io.git
+  repository: git@github.com:real-ustc/real-ustc.github.io.git
   branch: master
